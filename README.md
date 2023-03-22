@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Cooke
 - 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning Java && JS
+- 🌱 I’m currently learning C# && React JS
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me william@williamcooke.net
 
