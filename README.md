@@ -1,6 +1,6 @@
-- 👋 Hi, I’m William Cooke
-- 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning C# && React JS
+- 👋 Hi, I’m William Cooke, a full stack dotnet/react developer
+- 👀 I’m interested in web development and especially in APIs 
+- 🌱 I’m currently taking my CSM qualification && broadening my API knowledge
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me william@williamcooke.net
 
