@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me william@williamcooke.net
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,azure,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=fs,cs,dotnet,svelte,react,js,html,css,azure,github)](https://skillicons.dev)
 
   ![WillC33's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillC33&layout=donut&theme=synthwave)
 
