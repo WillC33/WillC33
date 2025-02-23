@@ -6,7 +6,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=fs,cs,dotnet,svelte,react,js,html,css,azure,github)](https://skillicons.dev)
 
-  ![WillC33's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillC33&layout=donut&theme=synthwave&langsCount=8)
+  ![WillC33's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WillC33&layout=donut&theme=synthwave&langs_count=8)
 
 <!---
 WillC33/WillC33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
