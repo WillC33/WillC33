@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Cooke, a full stack dotnet/svelte/react developer
 - 👀 I’m interested in web development and especially in APIs 
-- 🌱 I’m currently exploring my love of F# and it's functional patterns
+- 🌱 I’m currently exploring my love of F# and its functional patterns
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me william@williamcooke.net
 
