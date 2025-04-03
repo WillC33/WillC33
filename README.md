@@ -23,6 +23,8 @@ Some of the things I enjoy working with:
   A git-like version control written in F#. Exploring some of the api decisions and features I'd love for git
 - [**Seasonly**](https://seasonly.org)  
   A web application for connecting members of local communities with seasonal, regional produce.
+- [**ReWined**](https://rewined.net)
+  A bespoke SSG blog for providing my own non-alcoholic wine reviews in beautifully prerendererd, localised HTML via sveltekit
 
 ## 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 
