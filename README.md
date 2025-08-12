@@ -16,7 +16,7 @@ Some of the things I enjoy working with:
 - **Tools:** Nvim, Linux, Git, Bun, Docker, XUnit, Playwright, SQL
 
 ## 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙼𝚊𝚓𝚘𝚛 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
-- [**Qurated**](https://qurated.)
+- [**Clamber**](https://clamber.digital)
 - [**nex-vcs**](https://github.com/WillC33/nex-vcs)  
   A git-like version control written in F#. Exploring some of the api decisions and features I'd love for git
 - [**Seasonly**](https://seasonly.org)  
