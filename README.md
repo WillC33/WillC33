@@ -16,7 +16,8 @@ Some of the things I enjoy working with:
 - **Tools:** Nvim, Linux, Git, Bun, Docker, XUnit, Playwright, SQL
 
 ## 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙼𝚊𝚓𝚘𝚛 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
-- [**Clamber**](https://clamber.digital)
+- [**Clamber**](https://clamber.digital) The ultimate in simplicity. A Waitlist manager designed for validating MVPs.
+  A simple but secure API for front-end only landing pages, and the backend tools you need. 
 - [**nex-vcs**](https://github.com/WillC33/nex-vcs)  
   A git-like version control written in F#. Exploring some of the api decisions and features I'd love for git
 - [**Seasonly**](https://seasonly.org)  
