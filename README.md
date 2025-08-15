@@ -5,7 +5,6 @@
 I'm an API enthusiast and web developer who loves building efficient, functionally-inspired solutions to problems. 
 Currently, I'm exploring version control with functional patterns in nex-vcs. 
 I like to emphasise performance and usability in my projects, embracing open and accessibile standards and pratices.
-I could explain a monad, but then I'd have to kill you 😉
 
 ## 𝚃𝚎𝚌𝚑 & 𝚃𝚘𝚘𝚕𝚜
 
