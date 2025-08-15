@@ -1,4 +1,4 @@
-![Decorative banner with a git-like graph of commits](https://media.licdn.com/dms/image/v2/D4E16AQFcj2cEkiyNXQ/profile-displaybackgroundimage-shrink_350_1400/B4EZiEt6DnHgAY-/0/1754573284108?e=1757548800&v=beta&t=Ia56lrYt_InxRrkM98NX5N8gDDTymP-rz--ttPw3-ZE)
+![Decorative banner with a git-like graph of commits](https://media.licdn.com/dms/image/v2/D4E16AQEAUAhCR_P_-g/profile-displaybackgroundimage-shrink_350_1400/B4EZisr.EwGoAc-/0/1755243865066?e=1758153600&v=beta&t=X-rWt6lO05vved_HEoirhMdccu0Sgvr_rtaiW127_nM)
 # 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚆𝚒𝚕𝚕𝚒𝚊𝚖 𝙲𝚘𝚘𝚔𝚎, 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👋
 [![My Skills](https://skillicons.dev/icons?i=elixir,ocaml,dotnet,js,svelte,react,html,css,azure,github)](https://skillicons.dev)
 
