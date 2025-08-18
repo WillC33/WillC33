@@ -10,17 +10,14 @@ I like to emphasise performance and usability in my projects, embracing open and
 
 Some of the things I enjoy working with:
 
-- **Languages:** F#, C#, OCaml, JavaScript, TypeScript, Elixir, Python
-- **Frameworks/Libraries:** Svelte, React, ASP, Phoenix, ML.NET
+- **Languages:** Elixir, F#, C#, OCaml, JavaScript, TypeScript, Python
+- **Frameworks/Libraries:** Phoenix, Svelte, React, ASP, ML.NET
 - **Tools:** Nvim, Linux, Git, Bun, Docker, XUnit, Playwright, SQL
 
 ## 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙼𝚊𝚓𝚘𝚛 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
-- [**Clamber**](https://clamber.digital) The ultimate in simplicity. A Waitlist manager designed for validating MVPs.
-  A simple but secure API for front-end only landing pages, and the backend tools you need. 
-- [**nex-vcs**](https://github.com/WillC33/nex-vcs)  
-  A git-like version control written in F#. Exploring some of the api decisions and features I'd love for git
+- [**Ambrosia**](https://github.com/WillC33/ambrosia) An Elixir Gemini server that makes use of the BEAM's powerful networking capabilities 
 - [**Seasonly**](https://seasonly.org)  
-  A web application for connecting members of local communities with seasonal, regional produce.
+  A web application for connecting members of local communities with knowledge of their local produce.
 - [**ReWined**](https://rewined.net)
   A bespoke SSG blog for providing my own non-alcoholic wine reviews in beautifully prerendererd, localised HTML via sveltekit
 
