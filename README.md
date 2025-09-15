@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,dotnet,js,svelte,azure,github,docker)](https://skillicons.dev)
 
-I am a full-stack engineer exploring systems and infrastructure. By day, I build enterprise web applications with .NET and React, delivering business-critical features in regulated environments. In my spare time, I explore distributed systems, diving deep into how software works from the network layer up, via projects that both hold my interest and serve a purpose.
+I am a full-stack engineer exploring systems and infrastructure. By day, I build enterprise web and integrational applications with .NET and React, delivering business-critical features in regulated environments. In my spare time, I explore distributed systems, deep-diving into how software works from the network layer up, via projects that both hold my interest and serve a purpose.
 
 ## **Systems and Network Engineering**
 
@@ -15,8 +15,8 @@ I am a full-stack engineer exploring systems and infrastructure. By day, I build
 
 **Web Applications:**
 - [**traceinertia**](https://traceinertia.net) - traceinertia is a code-as-art project that explores broken interfaces, memory, and digital decay
-- [**Seasonly**](https://seasonly.org) - Phoenix LiveView community platform (live production app)
-- [**ReWined**](https://rewined.net) - SvelteKit static site with localisation and performance optimisation
+- [**Seasonly**](https://seasonly.org) - Phoenix LiveView app aiming to connect local users with knowledge on local UK food produce
+- [**ReWined**](https://rewined.net) - SvelteKit static site blog about non-alcoholic wines that I don't keep as up-to-date as I'd like
 
 ## **Professional Experience**
 
