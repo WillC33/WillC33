@@ -14,6 +14,7 @@ I am a full-stack engineer exploring systems and infrastructure. By day, I build
 - [**Ether**](https://github.com/WillC33/ether) - Raw packet sniffer for understanding network protocols at the packet level
 
 **Web Applications:**
+- [**traceinertia**](https://traceinertia.net) - traceinertia is a code-as-art project that explores broken interfaces, memory, and digital decay
 - [**Seasonly**](https://seasonly.org) - Phoenix LiveView community platform (live production app)
 - [**ReWined**](https://rewined.net) - SvelteKit static site with localisation and performance optimisation
 
