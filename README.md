@@ -26,7 +26,7 @@ I am a full-stack engineer exploring systems and infrastructure. By day, I build
 
 - **Systems:** Elixir, F#, OCaml, Docker, distributed clustering
 - **Enterprise:** C#, .NET, React, TypeScript, SQL Server, Azure
-- **Tools:** Linux, Git, ExUnit, performance profiling
+- **Tools:** Linux, Git, Neovim, ExUnit, performance profiling
 
 ## **What I Strive For**
 
