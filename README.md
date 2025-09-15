@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,dotnet,js,svelte,azure,github,docker)](https://skillicons.dev)
 
-I build enterprise web applications by day (.NET/React) and explore distributed systems in my spare time. Passionate about understanding how software works from the network layer up—not just writing features, but crafting resilient, well-architected solutions.
+I am a full-stack engineer exploring systems and infrastructure. By day, I build enterprise web applications with .NET and React, delivering business-critical features in regulated environments. In my spare time, I explore distributed systems, diving deep into how software works from the network layer up, via projects that both hold my interest and serve a purpose.
 
 ## **Systems and Network Engineering**
 
