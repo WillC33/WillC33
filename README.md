@@ -1,26 +1,31 @@
 # 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚆𝚒𝚕𝚕𝚒𝚊𝚖 𝙲𝚘𝚘𝚔𝚎 👋
 
-**Full-Stack Engineer exploring Systems & Infrastructure**
+**Full-Stack Software Engineer | Distributed Systems & Network Programming | Elixir • Phoenix • JS • SQL • Docker**
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,dotnet,js,svelte,azure,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,js,azure,postgres,docker,dotnet,react)](https://skillicons.dev)
 
-I am a full-stack engineer exploring systems and infrastructure. By day, I build enterprise web and integrational applications with .NET and React, delivering business-critical features in regulated environments. In my spare time, I explore distributed systems, deep-diving into how software works from the network layer up, via projects that both hold my interest and serve a purpose.
+I am a full-stack engineer exploring systems and infrastructure. By day, I build enterprise web and integrational applications with **.NET and React**, delivering business-critical features in regulated industries like financial, audit, and construction. 
+
+In my down time, I build with **Elixir and OTP**, specifically **Phoenix LiveView**, Deploying in the **Cloud** with **Docker**, **Postgres** and **Linux** and testing with **ExUnit, Jest, and Playwright**.
+
+I am currently interested in exploring distributed systems, deep-diving into how software works from the network layer up, via projects that both hold my interest and serve a purpose.
 
 ## **Systems and Network Engineering**
 
 **Distributed Systems & Networking:**
-- [**Pangea**](https://github.com/WillC33/pangea) - Fault-tolerant distributed monitoring platform with BEAM clustering and real-time dashboards
-- [**Ambrosia**](https://github.com/WillC33/ambrosia) - Production-ready Gemini server with TLS, concurrent handling, and comprehensive security testing
-- [**Ether**](https://github.com/WillC33/ether) - Raw packet sniffer for understanding network protocols at the packet level
+- [**Pangea**](https://github.com/WillC33/pangea) - Fault-tolerant distributed **Elixir** monitoring platform with **Distributed GenServers** via **Erlang Cookies** and **Phoenix LiveView** real-time dashboards
+- [**Ambrosia**](https://github.com/WillC33/ambrosia) - Production-ready **Elixir** Gemini server with TLS, concurrent handling, and comprehensive security **TDD in ExUnit**
+- [**Ether**](https://github.com/WillC33/ether) - Raw **OCaml** packet sniffer for understanding network protocols at the packet level with **C** bindings
 
 **Web Applications:**
-- [**traceinertia**](https://traceinertia.net) - traceinertia is a code-as-art project that explores broken interfaces, memory, and digital decay
-- [**Seasonly**](https://seasonly.org) - Phoenix LiveView app aiming to connect local users with knowledge on local UK food produce
-- [**ReWined**](https://rewined.net) - SvelteKit static site blog about non-alcoholic wines that I don't keep as up-to-date as I'd like
+- [**Clamber**](https://clamber.digital) - Clamber is a **Dockerised Phoenix LiveView** and **Postgres** app for managing MVP waitlists without a backend 
+- [**traceinertia**](https://traceinertia.net) - traceinertia is a **JavaScript** code-as-art project that explores broken interfaces, memory, and digital decay
+- [**Seasonly**](https://seasonly.org) - **Phoenix LiveView** app aiming to connect local users with knowledge on local UK food produce
+- [**ReWined**](https://rewined.net) - **SvelteKit** static site blog about non-alcoholic wines that I don't keep as up-to-date as I'd like
 
 ## **Professional Experience**
 
-**2.5+ years** building enterprise ERP add-ons with C#/.NET and React, delivering business-critical features in regulated environments and modernising legacy systems.
+**2.5+ years** building enterprise ERP add-ons with **C#/.NET and React**, delivering business-critical features in regulated environments and modernising legacy systems.
 
 ## **Tech I Love**
 
