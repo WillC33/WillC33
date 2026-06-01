@@ -25,7 +25,7 @@ I am currently interested in exploring distributed systems, deep-diving into how
 
 ## **Professional Experience**
 
-**3+ years** building enterprise ERP add-ons with **C#/.NET and React**, delivering business-critical features in regulated environments and modernising legacy systems.
+**4+ years** building enterprise ERP add-ons with **C#/.NET and React**, delivering business-critical features in regulated environments and modernising legacy systems.
 
 ## **Tech I Love**
 
