@@ -18,9 +18,7 @@ I am currently interested in exploring distributed systems, deep-diving into how
 - [**Ether**](https://github.com/WillC33/ether) - Raw **OCaml** packet sniffer for understanding network protocols at the packet level with **C** bindings
 
 **Web Applications:**
-- [**Clamber**](https://clamber.digital) - Clamber is a **Dockerised Phoenix LiveView** and **Postgres** app for managing MVP waitlists without a backend 
 - [**traceinertia**](https://traceinertia.net) - traceinertia is a **JavaScript** code-as-art project that explores broken interfaces, memory, and digital decay
-- [**Seasonly**](https://seasonly.org) - **Phoenix LiveView** app aiming to connect local users with knowledge on local UK food produce
 - [**ReWined**](https://rewined.net) - **SvelteKit** static site blog about non-alcoholic wines that I don't keep as up-to-date as I'd like
 
 ## **Professional Experience**
